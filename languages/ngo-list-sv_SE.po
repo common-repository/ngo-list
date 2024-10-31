@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NGO-list\n"
+"POT-Creation-Date: 2016-12-15 13:21+0100\n"
+"PO-Revision-Date: 2016-12-15 13:22+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ngo-list.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: livesearch.php:53
+msgid "Nothing matched your search criteria."
+msgstr "Hittar inget som passar din sökning..."
+
+#: ngo-list kopia.php:86
+msgid ""
+"The plugin NGO-list requires that the link-category \"Evenemangssida\" "
+"exists. Links you create for events pages should be added to this category. "
+"Go to your portal-page Links - Link Categories and create it."
+msgstr ""
+"Tillägget Föreningslista kräver att länk-kategorin Evenemangssida finns. "
+"Länkar du skapar för evenemangssidor lägger du i denna kategori. Gå till din "
+"portalsida Länkar - Länkkategorier och skapa den."
+
+#: ngo-list kopia.php:89
+msgid ""
+"The plugin NGO-list requires that the link-category \"Extern\" exists. Links "
+"you create for external web sites should be put in to this category. Go to "
+"your portal-page Links - Link Categories and create it."
+msgstr ""
+"Tillägget Föreningslista kräver att länk-kategorin Extern finns. Länkar du "
+"skapar för externa webb-platser lägger du i denna kategori. Gå till din "
+"portalsida Länkar - Länkkategorier och skapa den."
+
+#: ngo-list kopia.php:129 ngo-list.php:136
+msgid "Write & click on the desired NGO."
+msgstr "Skriv & klicka på önskad förening."
+
+#: ngo-list kopia.php:147 ngo-list.php:154
+msgid "Web sites"
+msgstr "Webbplatser"
+
+#: ngo-list kopia.php:193 ngo-list.php:200
+msgid ""
+"This is a Wordpress error... The file wp-includes/plugin.php is probably not "
+"loaded.."
+msgstr ""
+"Detta är ett Wordpress fel... Filen wp-includes/plugin.php är förmodligen "
+"inte inläst..."
+
+#: ngo-list kopia.php:211 ngo-list.php:254
+msgid "External websites"
+msgstr "Externa webbplatser"
+
+#: ngo-list kopia.php:219 ngo-list.php:262
+msgid "Event Pages"
+msgstr "Evenemangssidor"
+
+#: ngo-list.php:39
+msgid "Event pages"
+msgstr "Evenemangssidor"
+
+#: ngo-list.php:45
+msgid "Links to sites in the portal that should be listed as eventpages."
+msgstr "Länkar till webbplatser i portalen som ska listas som evenemangssidor."
+
+#: ngo-list.php:50
+msgid "External sites"
+msgstr "Externa webbplatser"
+
+#: ngo-list.php:56
+msgid "Links to external sites"
+msgstr "Länkar till externa webbplatser"
+
+#: ngo-list.php:93
+msgid ""
+"The plugin NGO-list requires that a link-category with the slug \"eventpage"
+"\" exists. Links you create for events pages should be added to this "
+"category. Go to your portal-page Links - Link Categories and create it or "
+"deactivate and activate this plugin to automatically create it."
+msgstr ""
+"Tillägget Föreningslista kräver att en länk-kategori med permalänken "
+"\"eventpage\" finns. Länkar du skapar för evenemangssidor lägger du i denna "
+"kategori. Gå till din portalsida Länkar - Länkkategorier och skapa den eller "
+"inaktivera och återaktivera detta tillägg för att automatiskt skapa den."
+
+#: ngo-list.php:96
+msgid ""
+"The plugin NGO-list requires that a link-category with the slug \"extern\" "
+"exists. Links you create for external web sites should be put in to this "
+"category. Go to your portal-page Links - Link Categories and create it or "
+"deactivate and activate this plugin to automatically create it."
+msgstr ""
+"Tillägget Föreningslista kräver att en länk kategori med permalänken \"extern"
+"\" finns. Länkar du skapar för externa webb-platser lägger du i denna "
+"kategori. Gå till din portalsida Länkar - Länkkategorier och skapa den eller "
+"inaktivera och aktivera detta tillägg för att automatiskt skapa den."
+
+#. Plugin Name of the plugin/theme
+msgid "NGO-list"
+msgstr "Föreningslista"
+
+#. Plugin URI of the plugin/theme
+msgid "https://ngo-portal.org"
+msgstr "https://ngo-portal.org"
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin shows a list of the portals member sites, including external "
+"pages and event pages. Should be activated on the portal site."
+msgstr ""
+"Denna plugin visar en lista över portalens webbplatser, inklusive externa "
+"sidor och evenemangssidor. Ska vara aktiv på portalwebbplatsen."
+
+#. Author of the plugin/theme
+msgid "George Bredberg"
+msgstr "George Bredberg"
+
+#. Author URI of the plugin/theme
+msgid "https://datagaraget.se"
+msgstr "https://datagaraget.se"
+
+#~ msgid "Event page"
+#~ msgstr "Evenemangets hemsida"
+
+#~ msgid "Extern"
+#~ msgstr "Extern"
+
+#~ msgid ""
+#~ "This plugin shows a list of the portals member sites, including external "
+#~ "pages and event pages. Should be activated on the portal site.\""
+#~ msgstr ""
+#~ "Denna plugin visar en lista över portalens webbplatser, inklusive externa "
+#~ "sidor och evenemangssidor. Ska aktiveras på portalwebbplatsen.\""

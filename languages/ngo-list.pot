@@ -1,0 +1,83 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: NGO-list\n"
+"POT-Creation-Date: 2016-12-14 20:52+0100\n"
+"PO-Revision-Date: 2016-12-14 20:44+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ngo-list.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: livesearch.php:53
+msgid "Nothing matched your search criteria."
+msgstr ""
+
+#: ngo-list.php:86
+msgid ""
+"The plugin NGO-list requires that the link-category \"Evenemangssida\" "
+"exists. Links you create for events pages should be added to this category. "
+"Go to your portal-page Links - Link Categories and create it."
+msgstr ""
+
+#: ngo-list.php:89
+msgid ""
+"The plugin NGO-list requires that the link-category \"Extern\" exists. Links "
+"you create for external web sites should be put in to this category. Go to "
+"your portal-page Links - Link Categories and create it."
+msgstr ""
+
+#: ngo-list.php:129
+msgid "Write & click on the desired NGO."
+msgstr ""
+
+#: ngo-list.php:147
+msgid "Web sites"
+msgstr ""
+
+#: ngo-list.php:193
+msgid ""
+"This is a Wordpress error... The file wp-includes/plugin.php is probably not "
+"loaded.."
+msgstr ""
+
+#: ngo-list.php:210
+msgid "External websites"
+msgstr ""
+
+#: ngo-list.php:218
+msgid "Event Pages"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "NGO-list"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://ngo-portal.org"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin shows a list of the portals member sites, including external "
+"pages and event pages. Should be activated on the portal site.\""
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "George Bredberg"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://datagaraget.se"
+msgstr ""
